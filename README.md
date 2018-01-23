@@ -31,7 +31,7 @@ Para maiores detalhes da instalação do docker e docker-compose:
 
 ```sh
 $ git clone git@github.com:plgstudio/DockerPress-PLG.git
-$ cd DockerPress
+$ cd DockerPress-PLG
 $ docker-compose up -d
 ```
 
